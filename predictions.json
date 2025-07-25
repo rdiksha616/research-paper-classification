@@ -1,0 +1,1145 @@
+[
+  {
+    "abstract_id": 36764880,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9815219640731812,
+      "Non-Cancer": 0.01847800612449646
+    },
+    "extracted_diseases": [
+      "Breast Cancer"
+    ]
+  },
+  {
+    "abstract_id": 26511139,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.12504929304122925,
+      "Non-Cancer": 0.8749507069587708
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 36738229,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.966080904006958,
+      "Non-Cancer": 0.03391904756426811
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 29855039,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.17277243733406067,
+      "Non-Cancer": 0.8272275924682617
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31334571,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9710487127304077,
+      "Non-Cancer": 0.028951263055205345
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31124195,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.8955298662185669,
+      "Non-Cancer": 0.10447019338607788
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31050834,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.8361033201217651,
+      "Non-Cancer": 0.16389670968055725
+    },
+    "extracted_diseases": [
+      "Leukemia"
+    ]
+  },
+  {
+    "abstract_id": 31177117,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.8233738541603088,
+      "Non-Cancer": 0.17662614583969116
+    },
+    "extracted_diseases": [
+      "Leukemia"
+    ]
+  },
+  {
+    "abstract_id": 31592503,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9808030128479004,
+      "Non-Cancer": 0.0191970095038414
+    },
+    "extracted_diseases": [
+      "Prostate Cancer"
+    ]
+  },
+  {
+    "abstract_id": 29357781,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.36020341515541077,
+      "Non-Cancer": 0.6397966146469116
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 30085095,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.15412746369838715,
+      "Non-Cancer": 0.8458725810050964
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31260379,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9700267314910889,
+      "Non-Cancer": 0.029973262920975685
+    },
+    "extracted_diseases": [
+      "Breast Cancer"
+    ]
+  },
+  {
+    "abstract_id": 30929114,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.7304654121398926,
+      "Non-Cancer": 0.2695346176624298
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31347028,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9762455821037292,
+      "Non-Cancer": 0.02375437133014202
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 38182630,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.24760565161705017,
+      "Non-Cancer": 0.7523943781852722
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 30952820,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9619192481040955,
+      "Non-Cancer": 0.03808075934648514
+    },
+    "extracted_diseases": [
+      "Lung Cancer"
+    ]
+  },
+  {
+    "abstract_id": 37740653,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.22425256669521332,
+      "Non-Cancer": 0.7757474184036255
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 26153655,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.19402122497558594,
+      "Non-Cancer": 0.8059787750244141
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 25123125,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.11006457358598709,
+      "Non-Cancer": 0.8899354338645935
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31631483,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9691001176834106,
+      "Non-Cancer": 0.03089992143213749
+    },
+    "extracted_diseases": [
+      "Breast Cancer",
+      "Prostate Cancer"
+    ]
+  },
+  {
+    "abstract_id": 37460897,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.13207212090492249,
+      "Non-Cancer": 0.8679278492927551
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 36930112,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.978879988193512,
+      "Non-Cancer": 0.02111995592713356
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31178200,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9292095303535461,
+      "Non-Cancer": 0.07079044729471207
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31407494,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9715647101402283,
+      "Non-Cancer": 0.028435302898287773
+    },
+    "extracted_diseases": [
+      "Lung Cancer"
+    ]
+  },
+  {
+    "abstract_id": 30009677,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.29570767283439636,
+      "Non-Cancer": 0.704292356967926
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31110352,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9231097102165222,
+      "Non-Cancer": 0.07689034193754196
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31546041,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.975123941898346,
+      "Non-Cancer": 0.024876046925783157
+    },
+    "extracted_diseases": [
+      "Lung Cancer"
+    ]
+  },
+  {
+    "abstract_id": 28423318,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.07219924032688141,
+      "Non-Cancer": 0.9278008341789246
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 27939943,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.07216406613588333,
+      "Non-Cancer": 0.9278358817100525
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 38193064,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.15984565019607544,
+      "Non-Cancer": 0.8401544094085693
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 30923996,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.5388662219047546,
+      "Non-Cancer": 0.46113377809524536
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 24745676,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.3147062063217163,
+      "Non-Cancer": 0.6852937936782837
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 36637703,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.957537055015564,
+      "Non-Cancer": 0.042462900280952454
+    },
+    "extracted_diseases": [
+      "Lung Cancer"
+    ]
+  },
+  {
+    "abstract_id": 27012200,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.07452744990587234,
+      "Non-Cancer": 0.9254725575447083
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31048490,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9588344693183899,
+      "Non-Cancer": 0.04116547852754593
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 36708875,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.13995255529880524,
+      "Non-Cancer": 0.860047459602356
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31041634,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.918831467628479,
+      "Non-Cancer": 0.08116856217384338
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31655381,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9556095004081726,
+      "Non-Cancer": 0.04439052566885948
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 28880435,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.09166917949914932,
+      "Non-Cancer": 0.9083308577537537
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31335678,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9577741026878357,
+      "Non-Cancer": 0.042225878685712814
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31294066,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.1007874384522438,
+      "Non-Cancer": 0.8992125391960144
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 36929593,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.7443810105323792,
+      "Non-Cancer": 0.2556190490722656
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 38496508,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.11374806612730026,
+      "Non-Cancer": 0.8862519860267639
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 36632975,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.3082699775695801,
+      "Non-Cancer": 0.6917299628257751
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31055804,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.8535563945770264,
+      "Non-Cancer": 0.14644356071949005
+    },
+    "extracted_diseases": [
+      "Leukemia"
+    ]
+  },
+  {
+    "abstract_id": 31171120,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9815089106559753,
+      "Non-Cancer": 0.01849108748137951
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 30007456,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.4159507751464844,
+      "Non-Cancer": 0.5840492248535156
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 29271416,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.07999870181083679,
+      "Non-Cancer": 0.9200013279914856
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 29437806,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.11924150586128235,
+      "Non-Cancer": 0.8807584643363953
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31032708,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.8638163805007935,
+      "Non-Cancer": 0.13618366420269012
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31602010,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.43142151832580566,
+      "Non-Cancer": 0.5685784816741943
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 26059211,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.1816328763961792,
+      "Non-Cancer": 0.8183671832084656
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31341365,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9672489762306213,
+      "Non-Cancer": 0.032751064747571945
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31203817,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.41132164001464844,
+      "Non-Cancer": 0.5886783599853516
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31248429,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9569555521011353,
+      "Non-Cancer": 0.04304448142647743
+    },
+    "extracted_diseases": [
+      "Lung Cancer"
+    ]
+  },
+  {
+    "abstract_id": 30975996,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9626200199127197,
+      "Non-Cancer": 0.03737998753786087
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 30996350,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9673490524291992,
+      "Non-Cancer": 0.03265095874667168
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31383941,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.15479551255702972,
+      "Non-Cancer": 0.8452044725418091
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 26456649,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.28578895330429077,
+      "Non-Cancer": 0.7142110466957092
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 24819622,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.29160746932029724,
+      "Non-Cancer": 0.7083926200866699
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31479615,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.8826906085014343,
+      "Non-Cancer": 0.11730942130088806
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 25963654,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.09076569974422455,
+      "Non-Cancer": 0.9092342853546143
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 28784848,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.11162575334310532,
+      "Non-Cancer": 0.8883742690086365
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31597339,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9775353074073792,
+      "Non-Cancer": 0.022464673966169357
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31195689,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9646874070167542,
+      "Non-Cancer": 0.03531260043382645
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31254135,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.8268236517906189,
+      "Non-Cancer": 0.17317631840705872
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31681608,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.3021179437637329,
+      "Non-Cancer": 0.6978820562362671
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 30874851,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.4959394335746765,
+      "Non-Cancer": 0.5040606260299683
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31292799,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9686537384986877,
+      "Non-Cancer": 0.031346287578344345
+    },
+    "extracted_diseases": [
+      "Breast Cancer"
+    ]
+  },
+  {
+    "abstract_id": 36789775,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.3751658499240875,
+      "Non-Cancer": 0.6248341202735901
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 25663681,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.32413986325263977,
+      "Non-Cancer": 0.6758601665496826
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31212602,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9830603003501892,
+      "Non-Cancer": 0.016939645633101463
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 29146131,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.160459503531456,
+      "Non-Cancer": 0.8395404815673828
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 24906339,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.10214629024267197,
+      "Non-Cancer": 0.8978537321090698
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31455365,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9247977137565613,
+      "Non-Cancer": 0.07520223408937454
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 38501195,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.13683244585990906,
+      "Non-Cancer": 0.8631675243377686
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 38432242,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.2290295511484146,
+      "Non-Cancer": 0.7709704637527466
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31157977,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9655213952064514,
+      "Non-Cancer": 0.034478627145290375
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31171119,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9820480346679688,
+      "Non-Cancer": 0.017952032387256622
+    },
+    "extracted_diseases": [
+      "Breast Cancer"
+    ]
+  },
+  {
+    "abstract_id": 30926971,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.8112591505050659,
+      "Non-Cancer": 0.18874084949493408
+    },
+    "extracted_diseases": [
+      "Leukemia"
+    ]
+  },
+  {
+    "abstract_id": 36606708,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.8958557844161987,
+      "Non-Cancer": 0.10414424538612366
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31433323,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.8404581546783447,
+      "Non-Cancer": 0.15954184532165527
+    },
+    "extracted_diseases": [
+      "Melanoma"
+    ]
+  },
+  {
+    "abstract_id": 25911850,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.1874968409538269,
+      "Non-Cancer": 0.8125030994415283
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31461190,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.7899603843688965,
+      "Non-Cancer": 0.2100396752357483
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 26524254,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.07215745002031326,
+      "Non-Cancer": 0.9278425574302673
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 31384696,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9704756140708923,
+      "Non-Cancer": 0.029524337500333786
+    },
+    "extracted_diseases": [
+      "Colon Cancer"
+    ]
+  },
+  {
+    "abstract_id": 30923916,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9815701842308044,
+      "Non-Cancer": 0.0184298288077116
+    },
+    "extracted_diseases": [
+      "Colon Cancer"
+    ]
+  },
+  {
+    "abstract_id": 25012610,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.09871906787157059,
+      "Non-Cancer": 0.9012808799743652
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 36628811,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9659218192100525,
+      "Non-Cancer": 0.034078121185302734
+    },
+    "extracted_diseases": [
+      "Breast Cancer"
+    ]
+  },
+  {
+    "abstract_id": 25924711,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.11549258977174759,
+      "Non-Cancer": 0.884507417678833
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 26099230,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.33782076835632324,
+      "Non-Cancer": 0.6621792316436768
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 38341624,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.3057684302330017,
+      "Non-Cancer": 0.6942315697669983
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 28146470,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.11524033546447754,
+      "Non-Cancer": 0.8847596645355225
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 36932063,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.23111827671527863,
+      "Non-Cancer": 0.7688817381858826
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 30970592,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.327155739068985,
+      "Non-Cancer": 0.6728442907333374
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 29549173,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.1047089546918869,
+      "Non-Cancer": 0.8952909708023071
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 36930678,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9736679792404175,
+      "Non-Cancer": 0.02633204124867916
+    },
+    "extracted_diseases": [
+      "Breast Cancer"
+    ]
+  },
+  {
+    "abstract_id": 31220302,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9727808237075806,
+      "Non-Cancer": 0.027219237759709358
+    },
+    "extracted_diseases": [
+      "Breast Cancer"
+    ]
+  },
+  {
+    "abstract_id": 30971563,
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.9012928009033203,
+      "Non-Cancer": 0.0987071543931961
+    },
+    "extracted_diseases": []
+  },
+  {
+    "abstract_id": 38281420,
+    "predicted_labels": [
+      "Non-Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.28548988699913025,
+      "Non-Cancer": 0.7145100831985474
+    },
+    "extracted_diseases": []
+  }
+]

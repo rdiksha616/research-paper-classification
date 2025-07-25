@@ -1,0 +1,15 @@
+[
+  {
+    "abstract_id": "manual_input",
+    "predicted_labels": [
+      "Cancer"
+    ],
+    "confidence_scores": {
+      "Cancer": 0.7853481769561768,
+      "Non-Cancer": 0.21465182304382324
+    },
+    "extracted_diseases": [
+      "Lung Cancer"
+    ]
+  }
+]
