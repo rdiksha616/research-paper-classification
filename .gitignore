@@ -1,0 +1,6 @@
+data/
+models/
+output.json predictions.json result.json
+*.log
+__pycache__/
+*.pyc
